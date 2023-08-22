@@ -7,7 +7,7 @@
 
 For this computer assignment, you will ***not*** have to write any code.
 
-You will only have to check out the code from the Git repository and make a few changes to `introduction.cc`:
+You will only have to check out the code from the Git repository and make a few changes to `introduction.cpp`:
 
 **Programming Notes:**
 
@@ -63,7 +63,7 @@ Then, access your assignment:<br><br>
 */
 ```
 
-* Add the code below as the first line of code within `main` routine of the file `introduction.cc`, commit this change (including the error) to your local repository, and then push the change to the remote repository.
+* Add the code below as the first line of code within `main` routine of the file `introduction.cpp`, commit this change (including the error) to your local repository, and then push the change to the remote repository.
 
 ```c++
 cut << "Data Structures are Important!!" << endl;   // Yes, I know there is a typo!!!
